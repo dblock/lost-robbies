@@ -46,7 +46,7 @@ Produce a sales report, including history and what's for sale.
 npm run sales
 
 frame 7 was listed for sale for 399.000 ETH on Wed Mar 02 2022 12:43:49 GMT-0500 | https://superrare.co/artwork/ai-generated-nude-portrait-7-frame-7-197
-frame 8 was listed for sale for 500.000 ETH on Tue May 10 2022 07:07:02 GMT-0400 | https://superrare.co/artwork/ai-generated-nude-portrait-7-frame-8-198
+frame 8 was listed for sale for 600.000 ETH on Fri Jul 15 2022 17:18:26 GMT-0400 | https://superrare.co/artwork/ai-generated-nude-portrait-7-frame-8-198
 frame 13 sold for 100.888 ETH on Sat Apr 10 2021 00:40:21 GMT-0400 | https://superrare.co/artwork/ai-generated-nude-portrait-7-frame-13-203
 frame 24 sold for 0.100 ETH on Fri Jul 20 2018 10:32:22 GMT-0400 | https://superrare.co/artwork/ai-generated-nude-portrait-7-frame-24-214
 frame 44 was listed for sale for 2000.000 ETH on Mon Aug 23 2021 16:18:28 GMT-0400 | https://superrare.co/artwork/ai-generated-nude-portrait-7-frame-44-234
