@@ -51,8 +51,8 @@ async function listCreateTransactions() {
     null,
     null,
     '0x0000000000000000000000000000000000000000000000000000000000000000' // creation
-  )).result;        
-  var inputDataDecoder = new InputDataDecoder(await getAbi());
+  )).result;
+  const inputDataDecoder = new InputDataDecoder(await getAbi());
   const bar = new cliProgress.SingleBar({}, cliProgress.Presets.shades_classic);
   bar.start(createLogs.length, 0);
   for(let frameIndex = 1; frameIndex <= createLogs.length; frameIndex++) {
